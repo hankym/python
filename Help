@@ -1,0 +1,4 @@
+# python
+the download.py download the gif files from http://bbs.hupu.com/bxj
+Now it just scrapes the 10 front webpages，you can modify the number of "maxline".
+My email is hankyemeng@gmail.com.
